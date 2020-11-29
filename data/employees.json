@@ -1,0 +1,87 @@
+{
+  "employees": [
+    {
+      "name": "Vergil Ezekiel Taylor",
+      "photo": "01.jpg",
+      "username": "vegilEt",
+      "position": "Middle Front-End Developer",
+      "remote": false,
+      "location": 90089
+    },
+    {
+      "name": "Kerrie Hall",
+      "photo": "02.jpg",
+      "username": "kerriehall89",
+      "position": "Senior Back-End Engineer",
+      "remote": true,
+      "location": 90089
+    },
+    {
+      "name": "Qiang Seabrook",
+      "photo": "03.jpg",
+      "username": "qiangs",
+      "position": "Senior QA Engineer",
+      "remote": false,
+      "location": 90213
+    },
+    {
+      "name": "Shahnaz Simin Attar",
+      "photo": "04.jpg",
+      "username": "testTest999",
+      "position": "Junior QA Engineer",
+      "remote": false,
+      "location": 90209
+    },
+    {
+      "name": "Nirmala Intan",
+      "photo": "05.jpg",
+      "username": "nullpointer",
+      "position": "Middle Back-End Engineer",
+      "remote": true,
+      "location": 90209
+    },
+    {
+      "name": "Roderick Lavigne",
+      "photo": "06.jpg",
+      "username": "lavigneux",
+      "position": "Junior UI/UX Designer",
+      "remote": false,
+      "location": 94209
+    },
+    {
+      "name": "Dalila Doriane",
+      "photo": "07.jpg",
+      "username": "lilaW",
+      "position": "Senior Marketing Analyst",
+      "remote": true,
+      "location": 90089
+    },
+    {
+      "name": "Stepan Kovalyov",
+      "photo": "08.jpg",
+      "username": "stephen_k",
+      "position": "Communications Manager",
+      "remote": false,
+      "location": 90001
+    },
+    {
+      "name": "Harvey Madison",
+      "photo": "09.jpg",
+      "username": "madhat",
+      "position": "Middle Marketing Analyst",
+      "remote": true,
+      "location": 94209
+    },
+    {
+      "name": "Olivia Gill",
+      "photo": "10.jpg",
+      "username": "go_olivia",
+      "position": "Senior UI/UX Designer",
+      "remote": false,
+      "location": 94203
+    }
+  ],
+  "meta": {
+    "count": 10
+  }
+}
